@@ -34,6 +34,18 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * backup: false
 * other backups:
   * [bilibili【【最优控制 16-745 2023】卡耐基梅隆—中英字幕】](https://www.bilibili.com/video/BV1AezYYTE27/?share_source=copy_web&vd_source=f99e4e654091d7d51f2fa3c419e82280)
+ 
+## General Resources
+### MIT OpenCourseWare
+* course link: https://ocw.mit.edu/
+* Youtube Channel: [MIT OCW](https://www.youtube.com/mitocw)
+
+### Stanford Online
+### Coursera
+### Edx
+### Udacity
+### USACO
+### LeetCode
 
 ## Not Courses
 
