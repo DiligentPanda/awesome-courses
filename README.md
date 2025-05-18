@@ -38,9 +38,12 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 ## General Resources
 ### MIT OpenCourseWare
 * course link: https://ocw.mit.edu/
-* Youtube Channel: [MIT OCW](https://www.youtube.com/mitocw)
+* Youtube channel: [MIT OCW](https://www.youtube.com/mitocw)
 
 ### Stanford Online
+* course link: https://online.stanford.edu/
+* Youtube channel: [Stanford Online](https://www.youtube.com/@stanfordonline)
+
 ### Coursera
 ### Edx
 ### Udacity
