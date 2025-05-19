@@ -35,6 +35,20 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * other backups:
   * [bilibili【【最优控制 16-745 2023】卡耐基梅隆—中英字幕】](https://www.bilibili.com/video/BV1AezYYTE27/?share_source=copy_web&vd_source=f99e4e654091d7d51f2fa3c419e82280)
  
+### Introduction to Flow Matching and Diffusion Models (6.S184, MIT)
+* record update time: 05/18/2025
+* owner: MIT
+* time: Spring 2025
+* instructors: Peter Holderrieth
+* tags: AI, CV, Diffusion Model
+* course link: https://diffusion.csail.mit.edu/
+* video link: https://www.youtube.com/watch?v=GCoP2w-Cqtg&t=4944s
+* Youtube Channel: [Peter Holderrieth](https://www.youtube.com/@peterholderrieth)
+* code assignment: in its webpage
+* lecture notes: https://diffusion.csail.mit.edu/docs/lecture-notes.pdf
+* language: English
+* backup: false
+ 
 ## General Resources
 ### MIT OpenCourseWare
 * course link: https://ocw.mit.edu/
