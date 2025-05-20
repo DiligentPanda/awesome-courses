@@ -48,6 +48,18 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * lecture notes: https://diffusion.csail.mit.edu/docs/lecture-notes.pdf
 * language: English
 * backup: false
+
+### Advanced Optimization and Randomized Methods (10-801, CMU)
+* record update time: 05/19/2025
+* owner: CMU
+* time: Spring 2014
+* instructors: Alex Smola and Suvrit Sra
+* tags: Optimization
+* course link: https://www.cs.cmu.edu/~suvrit/teach/aopt.html
+* video link: https://www.youtube.com/watch?v=yBO4E1FARaA
+* Youtube Channel: [10-801-s14-cmu](https://www.youtube.com/@--s-cmu)
+* language: English
+* backup: false
  
 ## General Resources
 ### MIT OpenCourseWare
