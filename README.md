@@ -60,6 +60,18 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * Youtube Channel: [10-801-s14-cmu](https://www.youtube.com/@--s-cmu)
 * language: English
 * backup: false
+
+### Introduction to Artificial Intelligence (CS188, Berkeley)
+* record update time: 05/23/2025
+* owner: Berkeley
+* time: Spring 2025
+* instructors: John Canny and Oliver Grillmeyer
+* tags: AI
+* course link: https://inst.eecs.berkeley.edu/~cs188/sp25/
+* video link: https://www.youtube.com/watch?v=Awv7S9HI0wM
+* Youtube Channel: [CS 188 (Artificial Intelligence) at UC Berkeley](https://www.youtube.com/@berkeley-cs188)
+* language: English
+* backup: false
  
 ## General Resources
 ### MIT OpenCourseWare
