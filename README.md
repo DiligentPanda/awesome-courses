@@ -5,6 +5,18 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 
 ## Courses
 
+### Advanced Large Language Model Agents (CS294, Berkeley)
+* record update time: 05/24/2025
+* owner: Berkeley
+* time: Spring 2025
+* instructors: Dawn Song,	Xinyun Chen	and Kaiyu Yang
+* tags: AI, NLP, LLM, Agent
+* course link: https://llmagents-learning.org/sp25
+* video link: https://www.youtube.com/live/g0Dwtf3BH-0
+* Youtube Channel: [Berkeley RDI Center on Decentralization & AI](https://www.youtube.com/@BerkeleyRDI)
+* language: English
+* backup: false
+
 ### Language Modeling from Scratch (CS336, Stanford)
 * record update time: 05/18/2025
 * owner: Stanford
