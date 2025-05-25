@@ -84,6 +84,16 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * Youtube Channel: [CS 188 (Artificial Intelligence) at UC Berkeley](https://www.youtube.com/@berkeley-cs188)
 * language: English
 * backup: false
+
+### How To AI (Almost) Anything (MAS.S60, MIT)
+* record update time: 05/25/2025
+* owner: MIT
+* time: Spring 2025
+* instructors: Paul Liang
+* tags: AI
+* course link: https://mit-mi.github.io/how2ai-course/spring2025/
+* language: English
+* backup: false
  
 ## General Resources
 ### MIT OpenCourseWare
