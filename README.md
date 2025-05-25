@@ -94,6 +94,18 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * course link: https://mit-mi.github.io/how2ai-course/spring2025/
 * language: English
 * backup: false
+
+### Probabilistic Graphical Models (10780, CMU)
+* record update time: 05/25/2025
+* owner: CMU
+* time: Spring 2020
+* instructors: Eric P. Xing
+* tags: AI, ML
+* course link: https://www.cs.cmu.edu/~epxing/Class/10708-20/
+* video link: https://www.youtube.com/watch?v=oqvdH_8lmCA
+* Youtube Channel: [CMU 10-708 PGM](https://www.youtube.com/@CMU-10-708-PGM)
+* language: English
+* backup: false
  
 ## General Resources
 ### MIT OpenCourseWare
