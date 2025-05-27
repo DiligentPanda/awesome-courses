@@ -30,6 +30,18 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * language: English
 * backup: false
 
+### Advanced Natural Language Processing (11-711, CMU)
+* record update time: 05/27/2025
+* owner: CMU
+* time: Spring 2025
+* instructors: Sean Welleck
+* tags: AI, NLP, LLM
+* course link: https://cmu-l3.github.io/anlp-spring2025/
+* video link: https://www.youtube.com/watch?v=MgggZi5lL2c
+* code assignment: yes
+* YouTube channel: [Sean Welleck](https://www.youtube.com/@wellecks)
+* language: English
+* backup: false
 
 ### Optimal Control and Reinforcement Learning (16-745, CMU)
 * record update time: 05/18/2025
