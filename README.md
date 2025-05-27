@@ -61,7 +61,7 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * owner: CMU
 * time: Spring 2025
 * instructors: Zachary Manchester
-* tags: AI, Reinforcement Learning, Control
+* tags: AI, RL, Control
 * course link: https://optimalcontrol.ri.cmu.edu/
 * video link: https://youtube.com/playlist?list=PLZnJoM76RM6IAJfMXd1PgGNXn3dxhkVgI&si=3Z7oplAnd7vLJ_fd
 * Youtube Channel: [CMU Robotic Exploration Lab](https://www.youtube.com/@roboticexplorationlab3724)
@@ -83,6 +83,19 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * Youtube Channel: [Peter Holderrieth](https://www.youtube.com/@peterholderrieth)
 * code assignment: in its webpage
 * lecture notes: https://diffusion.csail.mit.edu/docs/lecture-notes.pdf
+* language: English
+* backup: false
+
+### Introduction to Deep Learning (6.S191, MIT)
+* record update time: 05/27/2025
+* owner: MIT
+* time: Spring 2025
+* instructors: Alexander Amini and Ava Amini
+* tags: AI, Deep Learning, CV, NLP, RL
+* course link: https://introtodeeplearning.com/
+* video link: https://www.youtube.com/watch?v=to-lHJfK4pw
+* Youtube Channel: [Alexander Amini](https://www.youtube.com/@AAmini)
+* code assignment: in its webpage
 * language: English
 * backup: false
 
