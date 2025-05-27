@@ -56,7 +56,7 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * language: English
 * backup: false
 
-### Deep Reinforcement Learning (11-711, Berkeley)
+### Deep Reinforcement Learning (CS285, Berkeley)
 * record update time: 05/27/2025
 * owner: Berkeley
 * time: Fall 2023
