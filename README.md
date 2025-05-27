@@ -43,6 +43,19 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * language: English
 * backup: false
 
+### Advanced Natural Language Processing (11-711, CMU)
+* record update time: 05/27/2025
+* owner: CMU
+* time: Spring 2024
+* instructors: Graham Neubig
+* tags: AI, NLP, LLM
+* course link: https://phontron.com/class/anlp2024/staff/
+* video link: https://www.youtube.com/watch?v=NX0l1M0NWPM
+* code assignment: yes
+* YouTube channel: [Graham Neubig](https://www.youtube.com/@neubig)
+* language: English
+* backup: false 
+
 ### Optimal Control and Reinforcement Learning (16-745, CMU)
 * record update time: 05/18/2025
 * owner: CMU
