@@ -54,6 +54,19 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * code assignment: yes
 * YouTube channel: [Graham Neubig](https://www.youtube.com/@neubig)
 * language: English
+* backup: false
+
+### Deep Reinforcement Learning (11-711, Berkeley)
+* record update time: 05/27/2025
+* owner: Berkeley
+* time: Fall 2023
+* instructors: Sergey Levine
+* tags: AI, RL
+* course link: https://rail.eecs.berkeley.edu/deeprlcourse/
+* video link: https://www.youtube.com/watch?v=SupFHGbytvA&list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps&index=1
+* code assignment: yes
+* YouTube channel: [RAIL](https://www.youtube.com/@rail7462)
+* language: English
 * backup: false 
 
 ### Optimal Control and Reinforcement Learning (16-745, CMU)
