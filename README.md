@@ -49,7 +49,7 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * time: Spring 2024
 * instructors: Graham Neubig
 * tags: AI, NLP, LLM
-* course link: https://phontron.com/class/anlp2024/staff/
+* course link: https://phontron.com/class/anlp2024/
 * video link: https://www.youtube.com/watch?v=NX0l1M0NWPM
 * code assignment: yes
 * YouTube channel: [Graham Neubig](https://www.youtube.com/@neubig)
