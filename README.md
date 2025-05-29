@@ -192,6 +192,16 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * Youtube Channel: [CMU 10-708 PGM](https://www.youtube.com/@CMU-10-708-PGM)
 * language: English
 * backup: false
+  
+### Modern Robotics: Mechanics, Planning, and Control Specialization (Coursera, Northwestern)
+* record update time: 05/29/2025
+* owner: Northwestern
+* time: null
+* instructors: Kevin Lynch
+* tags: AI, Robotics
+* course link: https://www.coursera.org/specializations/modernrobotics
+* language: English
+* backup: false
  
 ## General Resources
 ### MIT OpenCourseWare
