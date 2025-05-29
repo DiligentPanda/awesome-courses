@@ -85,6 +85,17 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * other backups:
   * [bilibili【【最优控制 16-745 2023】卡耐基梅隆—中英字幕】](https://www.bilibili.com/video/BV1AezYYTE27/?share_source=copy_web&vd_source=f99e4e654091d7d51f2fa3c419e82280)
  
+### Optimal and Learning-Based Control (AA203, Stanford)
+* record update time: 05/29/2025
+* owner: Stanford
+* time: Spring 2024
+* instructors: Marco Pavone and Daniele Gammelli
+* tags: AI, RL, Control
+* course link: https://stanfordasl.github.io/aa203/sp2324/
+* code assignment: yes
+* language: English
+* backup: false 
+ 
 ### Introduction to Flow Matching and Diffusion Models (6.S184, MIT)
 * record update time: 05/18/2025
 * owner: MIT
