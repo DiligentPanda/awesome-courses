@@ -198,11 +198,22 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * owner: Northwestern
 * time: null
 * instructors: Kevin Lynch
-* tags: AI, Robotics
+* tags: AI, Control, Robotics
 * course link: https://www.coursera.org/specializations/modernrobotics
 * language: English
 * backup: false
- 
+
+### Control Bootcamp (Youtube, University of Washington)
+* record update time: 05/29/2025
+* owner: University of Washington
+* time: null
+* instructors: Steve Brunton
+* tags: AI, Control, Robotics
+* video link: https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
+* Youtube Channel: [Steve Brunton](https://www.youtube.com/@Eigensteve)
+* language: English
+* backup: false
+
 ## General Resources
 ### MIT OpenCourseWare
 * course link: https://ocw.mit.edu/
