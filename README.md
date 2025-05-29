@@ -237,3 +237,10 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * tags: AI, CV, Diffusion Model
 * video link: https://youtu.be/ud6z5SkjoZI?si=85UWrvg3owdIE4wP
 * backup: false
+
+### Programming Exercises for Planning and Decision Making for Autonomous Robots (ETH)
+* record update time: 05/29/2025
+* time: 2024 Fall
+* tags: AI, Planning, Robotics
+* code assignment: https://pdm4ar.github.io/exercises/
+* backup: false
