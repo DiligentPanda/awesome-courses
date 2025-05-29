@@ -95,6 +95,19 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * code assignment: yes
 * language: English
 * backup: false 
+
+### Advanced Robotics (CS 287, Berkeley)
+* record update time: 05/29/2025
+* owner: Berkeley
+* time: Fall 2019
+* instructors: Pieter Abbeel
+* tags: AI, RL, Control, Robotics
+* course link: https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/
+* video link: https://www.youtube.com/watch?v=xWPViQ6LI-Q
+* code assignment: yes
+* YouTube channel: [Pieter Abbeel](https://www.youtube.com/@PieterAbbeel/playlists)
+* language: English
+* backup: false 
  
 ### Introduction to Flow Matching and Diffusion Models (6.S184, MIT)
 * record update time: 05/18/2025
