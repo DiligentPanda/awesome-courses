@@ -67,6 +67,17 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * code assignment: yes
 * YouTube channel: [RAIL](https://www.youtube.com/@rail7462)
 * language: English
+* backup: false
+
+### Deep Reinforcement Learning (CS224R, Stanford)
+* record update time: 05/29/2025
+* owner: Stanford
+* time: Spring 2025
+* instructors: Chelsea Finn
+* tags: AI, RL
+* course link: https://cs224r.stanford.edu/
+* code assignment: yes
+* language: English
 * backup: false 
 
 ### Optimal Control and Reinforcement Learning (16-745, CMU)
