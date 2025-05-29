@@ -213,6 +213,7 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * Youtube Channel: [Steve Brunton](https://www.youtube.com/@Eigensteve)
 * language: English
 * backup: false
+* Comment: we can also follow the book link https://databookuw.com/page-3/page-20/
 
 ## General Resources
 ### MIT OpenCourseWare
