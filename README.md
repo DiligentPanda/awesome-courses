@@ -231,6 +231,16 @@ https://www.cs.purdue.edu/homes/dgleich/cs520-2025/readings.html
 ### [TODO] Integer Programming (ISE 418, Lehigh)
 https://coral.ise.lehigh.edu/~ted/teaching/ie418/
 
+### Discrete Optimization (Coursera, The University of Melbourne)
+* record update time: 05/30/2025
+* owner: The University of Melbourne
+* time: null
+* instructors: Pascal Van Hentenryck and Carleton Coffrin
+* tags: AI, Optimization
+* course link: https://www.coursera.org/learn/discrete-optimization
+* language: English
+* backup: false
+
 ## General Resources
 ### MIT OpenCourseWare
 * course link: https://ocw.mit.edu/
