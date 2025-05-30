@@ -231,6 +231,9 @@ https://www.cs.purdue.edu/homes/dgleich/cs520-2025/readings.html
 ### [TODO] Integer Programming (ISE 418, Lehigh)
 https://coral.ise.lehigh.edu/~ted/teaching/ie418/
 
+### [TODO] Deep Generative Models (6.S978, MIT)
+https://mit-6s978.github.io/
+
 ### Discrete Optimization (Coursera, The University of Melbourne)
 * record update time: 05/30/2025
 * owner: The University of Melbourne
