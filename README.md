@@ -228,6 +228,9 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 ### [TODO] Computational Methods in Optimization (CS-52000, Purdue) 
 https://www.cs.purdue.edu/homes/dgleich/cs520-2025/readings.html
 
+### [TODO] Integer Programming (ISE 418, Lehigh)
+https://coral.ise.lehigh.edu/~ted/teaching/ie418/
+
 ## General Resources
 ### MIT OpenCourseWare
 * course link: https://ocw.mit.edu/
