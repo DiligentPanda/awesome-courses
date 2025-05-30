@@ -93,8 +93,18 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * lecture notes: in its Github repos
 * language: English
 * backup: false
-* other backups:
-  * [bilibili【【最优控制 16-745 2023】卡耐基梅隆—中英字幕】](https://www.bilibili.com/video/BV1AezYYTE27/?share_source=copy_web&vd_source=f99e4e654091d7d51f2fa3c419e82280)
+
+### Computational Optimization, Spring 2025 (CHE 597, Purdue)
+* record update time: 05/29/2025
+* owner: Purdue
+* time: Spring 2025
+* instructors: Can Li
+* tags: AI, Optimization
+* course link: https://canli1.github.io/courses
+* video link: https://www.youtube.com/watch?v=fHdhqdkTrDo
+* Youtube Channel: [Can Li](https://www.youtube.com/@canli.optimum)
+* language: English
+* backup: false
  
 ### Optimal and Learning-Based Control (AA203, Stanford)
 * record update time: 05/29/2025
