@@ -243,6 +243,9 @@ https://www.cs.purdue.edu/homes/dgleich/cs520-2025/readings.html
 ### USACO
 ### LeetCode
 
+## Books
+### 50 Years of Integer Programming
+
 ## Not Courses
 
 ### History of Diffusion - Yang Song
