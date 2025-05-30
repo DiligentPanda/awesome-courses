@@ -272,6 +272,20 @@ https://coral.ise.lehigh.edu/~ted/teaching/ie418/
 * video link: https://youtu.be/ud6z5SkjoZI?si=85UWrvg3owdIE4wP
 * backup: false
 
+### Deep Learning Day: Generative Modeling - Kaiming He
+* record update time: 05/30/2025
+* YouTube channel: [MIT Schwarzman College of Computing](https://www.youtube.com/@mitcomputing)
+* tags: AI, CV, Generateive Model
+* video link: https://www.youtube.com/watch?v=2yJSoaGU2i4
+* backup: false
+
+### Deep Learning Day: Reasoning - Phillip Isola
+* record update time: 05/30/2025
+* YouTube channel: [MIT Schwarzman College of Computing](https://www.youtube.com/@mitcomputing)
+* tags: AI, CV, Generateive Model
+* video link: https://www.youtube.com/watch?v=s91WGN5-5A0
+* backup: false
+
 ### Programming Exercises for Planning and Decision Making for Autonomous Robots (ETH)
 * record update time: 05/29/2025
 * time: 2024 Fall
