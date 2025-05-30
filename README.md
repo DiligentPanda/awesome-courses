@@ -258,6 +258,7 @@ https://coral.ise.lehigh.edu/~ted/teaching/ie418/
 
 ## Books
 ### 50 Years of Integer Programming
+### [Algorithms for Optimization](https://algorithmsbook.com/optimization/files/optimization.pdf)
 
 ## Other Repos
 ### [awesome-optimization](https://github.com/ebrahimpichka/awesome-optimization)
