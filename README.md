@@ -249,6 +249,9 @@ https://coral.ise.lehigh.edu/~ted/teaching/ie418/
 ## Books
 ### 50 Years of Integer Programming
 
+## Other Repos
+### [awesome-optimization](https://github.com/ebrahimpichka/awesome-optimization)
+
 ## Not Courses
 
 ### History of Diffusion - Yang Song
