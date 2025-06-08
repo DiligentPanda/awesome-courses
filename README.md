@@ -234,6 +234,9 @@ https://coral.ise.lehigh.edu/~ted/teaching/ie418/
 ### [TODO] Deep Generative Models (6.S978, MIT)
 https://mit-6s978.github.io/
 
+### [TODO] Data Structures and Graph Algorithms (COS 528, Princeton)
+https://www.cs.princeton.edu/courses/archive/spring13/cos528/
+
 ### Discrete Optimization (Coursera, The University of Melbourne)
 * record update time: 05/30/2025
 * owner: The University of Melbourne
