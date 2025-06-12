@@ -144,6 +144,19 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * language: English
 * backup: false
 
+### Deep Generative Models (CS236, Stanford)
+* record update time: 06/12/2025
+* owner: Stanford
+* time: Fall 2023
+* instructors: Stefano Ermon
+* tags: AI, CV, Generative Model
+* course link: https://deepgenerativemodels.github.io/
+* video link: https: https://www.youtube.com/watch?v=XZ0PMRWXBEU&list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8
+* Youtube Channel: [Stanford Online](https://www.youtube.com/@stanfordonline)
+* code assignment: https://github.com/Subhajit135/CS236_DGM
+* language: English
+* backup: false
+
 ### Introduction to Deep Learning (6.S191, MIT)
 * record update time: 05/27/2025
 * owner: MIT
