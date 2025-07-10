@@ -238,6 +238,16 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * backup: false
 * Comment: we can also follow the book link https://databookuw.com/page-3/page-20/
 
+### AI Research Experiences (CS197, Harvard)
+* record update time: 07/10/2025
+* owner: Harvard
+* time: Winter 2023
+* instructors: Pranav Rajpurkar
+* tags: AI
+* course link: https://www.cs197.seas.harvard.edu/
+* language: English
+* backup: false
+
 ### [TODO] Computational Methods in Optimization (CS-52000, Purdue) 
 https://www.cs.purdue.edu/homes/dgleich/cs520-2025/readings.html
 
