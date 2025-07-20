@@ -248,6 +248,9 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * language: English
 * backup: false
 
+### [TODO] Reinforcement Learning of Large Language Models, Spring 2025, UCLA
+https://ernestryu.com/courses/RL-LLM.html
+
 ### [TODO] Computational Methods in Optimization (CS-52000, Purdue) 
 https://www.cs.purdue.edu/homes/dgleich/cs520-2025/readings.html
 
