@@ -30,6 +30,20 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * language: English
 * backup: false
 
+### Reinforcement Learning of Large Language Models (?????, UCLA)
+* record update time: 08/08/2025
+* owner: UCLA
+* time: Spring 2025
+* instructors: Ernest Ryu
+* tags: AI, LLM, RL
+* course link: https://ernestryu.com/courses/RL-LLM.html
+* video link: https://www.youtube.com/watch?v=q9972BRoXzQ
+* code assignment: yes
+* YouTube channel: [Ernest Ryu](https://www.youtube.com/@ernest-ryu2747)
+* language: English
+* backup: false
+
+
 ### Advanced Natural Language Processing (11-711, CMU)
 * record update time: 05/27/2025
 * owner: CMU
@@ -247,9 +261,6 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * course link: https://www.cs197.seas.harvard.edu/
 * language: English
 * backup: false
-
-### [TODO] Reinforcement Learning of Large Language Models, Spring 2025, UCLA
-https://ernestryu.com/courses/RL-LLM.html
 
 ### [TODO] Computational Methods in Optimization (CS-52000, Purdue) 
 https://www.cs.purdue.edu/homes/dgleich/cs520-2025/readings.html
