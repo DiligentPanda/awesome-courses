@@ -284,6 +284,11 @@ https://www.cs.princeton.edu/courses/archive/spring13/cos528/
 * language: English
 * backup: false
 
+## Tutorials
+* Flow Matching Guide and Code
+* Paper: https://arxiv.org/abs/2412.06264
+* Code: https://github.com/facebookresearch/flow_matching
+
 ## General Resources
 ### MIT OpenCourseWare
 * course link: https://ocw.mit.edu/
