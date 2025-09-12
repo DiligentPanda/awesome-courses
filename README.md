@@ -288,6 +288,7 @@ https://www.cs.princeton.edu/courses/archive/spring13/cos528/
 * Flow Matching Guide and Code
 * Paper: https://arxiv.org/abs/2412.06264
 * Code: https://github.com/facebookresearch/flow_matching
+* Video and Slides: https://neurips.cc/virtual/2024/tutorial/99531
 
 ## General Resources
 ### MIT OpenCourseWare
