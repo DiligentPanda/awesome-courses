@@ -5,6 +5,19 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 
 ## Courses
 
+### Inference Algorithms for Language Modeling (11-763, CMU)
+* record update time: 09/15/2025
+* owner: CMU
+* time: Fall 2025
+* instructors: Graham Neubig, Amanda Bertsch
+* tags: AI, NLP, LLM
+* course link: https://phontron.com/class/lminference-fall2025/
+* video link: https://www.youtube.com/watch?v=F-mduXzNcRQ
+* code assignment: yes
+* YouTube channel: [Graham Neubig](https://www.youtube.com/@neubig)
+* language: English
+* backup: false
+
 ### Advanced Large Language Model Agents (CS294, Berkeley)
 * record update time: 05/24/2025
 * owner: Berkeley
@@ -90,6 +103,19 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * instructors: Chelsea Finn
 * tags: AI, RL
 * course link: https://cs224r.stanford.edu/
+* code assignment: yes
+* language: English
+* backup: false 
+
+### Deep Learning for Computer Vision (CS231n, Stanford)
+* record update time: 09/25/2025
+* owner: Stanford
+* time: Spring 2025
+* instructors: Feifei Li, Ehsan Adeli, Justin Johnson, Zane Durante
+* tags: AI, CV
+* course link: https://cs231n.stanford.edu/
+* video link: https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16
+* Youtube Channel: [Stanford Online](https://www.youtube.com/watch?v=2fq9wYslV0A&list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
 * code assignment: yes
 * language: English
 * backup: false 
