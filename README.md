@@ -145,7 +145,7 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * Youtube Channel: [Can Li](https://www.youtube.com/@canli.optimum)
 * language: English
 * backup: false
- 
+
 ### Optimal and Learning-Based Control (AA203, Stanford)
 * record update time: 05/29/2025
 * owner: Stanford
@@ -299,6 +299,10 @@ https://mit-6s978.github.io/
 
 ### [TODO] Data Structures and Graph Algorithms (COS 528, Princeton)
 https://www.cs.princeton.edu/courses/archive/spring13/cos528/
+
+### [TODO] Foundations of Reinforcement Learning (ECE 524, Princeton)
+https://sites.google.com/view/cjin/teaching/ece524-2024-ver?authuser=0
+https://www.youtube.com/watch?v=QwTBtKWmA0M&list=PLYXvCE1En13epbogBmgafC_Yyyk9oQogl&index=22
 
 ### Discrete Optimization (Coursera, The University of Melbourne)
 * record update time: 05/30/2025
