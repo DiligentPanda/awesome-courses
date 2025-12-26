@@ -288,6 +288,9 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * language: English
 * backup: false
 
+### [TODO] Deep Reinforcement Learning (10703, CMU)
+https://cmudeeprl.github.io/703website_f25/
+
 ### [TODO] Computational Methods in Optimization (CS-52000, Purdue) 
 https://www.cs.purdue.edu/homes/dgleich/cs520-2025/readings.html
 
