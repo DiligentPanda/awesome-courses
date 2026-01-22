@@ -288,6 +288,10 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * language: English
 * backup: false
 
+### [TODO] Talking to Robots (11851, CMU)
+instructors: Yonatan Bisk
+time: Fall 2025
+
 ### [TODO] Deep Reinforcement Learning (10703, CMU)
 https://cmudeeprl.github.io/703website_f25/
 
