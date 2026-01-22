@@ -289,8 +289,10 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * backup: false
 
 ### [TODO] Talking to Robots (11851, CMU)
-instructors: Yonatan Bisk
-time: Fall 2025
+* time: Fall 2025
+* instructors: Yonatan Bisk
+* course link: https://talkingtorobots.com/11-851/
+* backup: false
 
 ### [TODO] Deep Reinforcement Learning (10703, CMU)
 https://cmudeeprl.github.io/703website_f25/
