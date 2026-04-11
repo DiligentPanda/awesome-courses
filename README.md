@@ -56,6 +56,18 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 * language: English
 * backup: false
 
+### Advanced Natural Language Processing (11-711, CMU)
+* record update time: 04/10/2026
+* owner: CMU
+* time: Spring 2026
+* instructors: Sean Welleck
+* tags: AI, NLP, LLM
+* course link: https://cmu-l3.github.io/anlp-spring2026/
+* video link: https://www.youtube.com/watch?v=EVt3hulvnl0&list=PLqC25OT8ZpD15emhQhNjRLym77-sp2kAx
+* code assignment: yes
+* YouTube channel: [Sean Welleck](https://www.youtube.com/@wellecks)
+* language: English
+* backup: false
 
 ### Advanced Natural Language Processing (11-711, CMU)
 * record update time: 05/27/2025
