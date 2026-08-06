@@ -5,6 +5,16 @@ The list might be rough now, but I will make it much nicer later, maybe with LLM
 
 ## Courses
 
+### AI Agents (11-768, CMU)
+* record update time: 08/06/2026
+* owner: CMU
+* time: Fall 2026
+* instructors: Daniel Fried, Graham Neubig
+* tags: AI, NLP, LLM
+* course link: https://www.cmu-agents.com/
+* language: English
+* backup: false
+
 ### Inference Algorithms for Language Modeling (11-763, CMU)
 * record update time: 09/15/2025
 * owner: CMU
